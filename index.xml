@@ -10,5 +10,23 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Dynamic Island Biogeography</title>
+      <link>https://mkborregaard.github.io/project/dynamic-island-biogeography/</link>
+      <pubDate>Wed, 29 Aug 2018 12:48:38 +0200</pubDate>
+      
+      <guid>https://mkborregaard.github.io/project/dynamic-island-biogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Island Biogeography: taking the long view of nature’s laboratories</title>
+      <link>https://mkborregaard.github.io/publication/island-biogeography-long-view/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://mkborregaard.github.io/publication/island-biogeography-long-view/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
